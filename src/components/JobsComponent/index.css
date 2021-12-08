@@ -1,0 +1,70 @@
+.job-successfull-bg {
+  margin-left: 25px;
+  width: 100%;
+}
+.job-search-ele {
+  background-color: transparent;
+  border-width: 0;
+  height: 40px;
+  width: 100%;
+  outline: none;
+  color: #f1f5f9;
+  padding-left: 15px;
+  font-size: 13px;
+}
+.search-job-cont {
+  width: 50%;
+  display: flex;
+  border-style: solid;
+  border-color: #64748b;
+  border-width: 2px;
+  border-radius: 3px;
+  outline: none;
+  margin-left: 20px;
+}
+.search-icon-button {
+  background-color: #272727;
+  border-width: 0;
+  color: #f1f5f9;
+  width: 60px;
+  font-size: 20px;
+}
+.loader-cont {
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.job-items-ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.job-failure-vew-bg {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.retry-button {
+  background-color: #4f46e5;
+  border-width: 0;
+  border-radius: 5px;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 15px;
+  height: 30px;
+  width: 80px;
+}
+.failure-heading {
+  color: #f8fafc;
+  font-size: 40px;
+  padding: 0;
+  margin: 0;
+}
+.failure-desc {
+  margin-bottom: 0;
+  color: #f8fafc;
+}

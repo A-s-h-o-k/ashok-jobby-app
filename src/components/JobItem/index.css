@@ -1,0 +1,62 @@
+.job-item {
+  background-color: #202020;
+  margin: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  border-radius: 15px;
+}
+
+.job-title {
+  color: #f8fafc;
+}
+.rating-para {
+  color: #ffffff;
+  font-size: 22px;
+}
+.rating-star {
+  font-size: 18px;
+  margin-right: 5px;
+  color: #fbbf24;
+}
+.company-logo {
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+}
+.rating-log-cont {
+  display: flex;
+  align-items: center;
+}
+.location-icon {
+  color: #f8fafc;
+  font-size: 25px;
+  margin-right: 10px;
+}
+.location-cont {
+  display: flex;
+  align-items: center;
+  color: #f1f5f9;
+  margin-right: 30px;
+}
+.location-type-cont {
+  display: flex;
+}
+.location-type-package-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.package {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.description {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.job-description {
+  color: #f1f5f9;
+}
